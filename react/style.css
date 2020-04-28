@@ -1,0 +1,15 @@
+.title  {
+    position: relative;
+    border:solid;
+    
+}
+.title h1 {
+    position: absolute;
+    top: 18%;
+    left:13%;
+    
+}
+
+.about{
+    border: solid;
+}
